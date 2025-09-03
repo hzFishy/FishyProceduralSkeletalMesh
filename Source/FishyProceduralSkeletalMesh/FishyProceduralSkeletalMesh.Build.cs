@@ -12,10 +12,10 @@ public class FishyProceduralSkeletalMesh : ModuleRules
 			new string[]
 			{
 				"Core",
-				
+				"ProceduralMeshComponent",
+				"FishyUtils"
 			}
 		);
-			
 		
 		PrivateDependencyModuleNames.AddRange(
 			new string[]
