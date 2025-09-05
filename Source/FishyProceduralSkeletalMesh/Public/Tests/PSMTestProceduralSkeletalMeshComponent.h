@@ -19,13 +19,13 @@ class FISHYPROCEDURALSKELETALMESH_API UPSMTestProceduralSkeletalMeshComponent : 
 		Properties
 	----------------------------------------------------------------------------*/
 protected:
-	UPROPERTY(EditAnywhere, Category="Setup")
+	UPROPERTY(EditAnywhere, Category="FishyProceduralSkeletalMesh|Setup")
 	TSoftObjectPtr<USkeletalMesh> SourceSkeletalMesh;
 
-	UPROPERTY(EditAnywhere, Category="Setup")
+	UPROPERTY(EditAnywhere, Category="FishyProceduralSkeletalMesh|Setup")
 	bool bCreateCollision;
 
-	UPROPERTY(EditAnywhere, Category="Setup")
+	UPROPERTY(EditAnywhere, Category="FishyProceduralSkeletalMesh|Setup")
 	bool bSimulatePhysics;
 
 	
