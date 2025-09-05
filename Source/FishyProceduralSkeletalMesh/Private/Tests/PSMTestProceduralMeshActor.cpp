@@ -1,4 +1,4 @@
-// Copyright PushThemAll Dev Team. All Rights Reserved.
+// By hzFishy - 2025 - Do whatever you want with it.
 
 
 #include "Tests/PSMTestProceduralMeshActor.h"
